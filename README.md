@@ -20,8 +20,7 @@ When a media player (Plex, Kodi, etc.) deletes a video file it often leaves the 
 
 ## Screenshots
 
-> GUI showing a scan in progress with colour-coded results and summary statistics.
-
+https://github.com/Justblair/Media-Folder-Cleanup/blob/main/screenshot.png
 ---
 
 ## Requirements
