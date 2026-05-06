@@ -35,7 +35,7 @@ When a media player (Plex, Kodi, etc.) deletes a video file it often leaves the 
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/media-cleanup.git
+git clone https://github.com/Justblair/Media-Folder-Cleanup.git
 cd media-cleanup
 ```
 
