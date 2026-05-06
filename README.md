@@ -20,7 +20,7 @@ When a media player (Plex, Kodi, etc.) deletes a video file it often leaves the 
 
 ## Screenshots
 
-https://github.com/Justblair/Media-Folder-Cleanup/blob/main/screenshot.png
+![Media Folder Cleanup GUI](https://raw.githubusercontent.com/Justblair/Media-Folder-Cleanup/main/screenshot.png)
 ---
 
 ## Requirements
